@@ -44,7 +44,7 @@ const Management = () => {
               {item.title}
             </span>
             <div className="md:w-[440px] mt-4 w-[340px]">
-              <Progress value={item.progress} />
+              <Progress value={97} />
             </div>
           </div>
         ))}
