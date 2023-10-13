@@ -41,7 +41,7 @@ const Itskill = () => {
           >
             <span className="">{item.title}</span>
             <div className="w-[440px]">
-              <Progress value={item.progress} />
+              <Progress value={86} />
             </div>
           </div>
         ))}
